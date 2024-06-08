@@ -1,7 +1,5 @@
 # Quiz App
 
-A new Flutter project.
-
 ## Project Description
 A simple quiz application about the four major football teams in the Turkish league.
 
