@@ -9,20 +9,20 @@ A simple quiz application about the four major football teams in the Turkish lea
 #### Screens
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="quizappimages/start.png" alt="Home Screen" width="25%">
+    <td align="center" style="width: 30%;">
+      <img src="quizappimages/start.png" alt="Home Screen" width="100%">
       <br><strong>Home Screen</strong>
     </td>
-    <td align="center">
-      <img src="quizappimages/choose.png" alt="Choose Screen" width="25%">
+    <td align="center" style="width: 30%;">
+      <img src="quizappimages/choose.png" alt="Choose Screen" width="100%">
       <br><strong>Choose Screen</strong>
     </td>
-    <td align="center">
-      <img src="quizappimages/questions.png" alt="Questions Screen" width="25%">
+    <td align="center" style="width: 30%;">
+      <img src="quizappimages/questions.png" alt="Questions Screen" width="100%">
       <br><strong>Questions Screen</strong>
     </td>
-    <td align="center">
-      <img src="quizappimages/result.png" alt="Result Screen" width="25%">
+    <td align="center" style="width: 30%;">
+      <img src="quizappimages/result.png" alt="Result Screen" width="100%">
       <br><strong>Result Screen</strong>
     </td>
   </tr>
