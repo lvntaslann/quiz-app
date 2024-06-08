@@ -16,7 +16,7 @@ A simple quiz application about the four major football teams in the Turkish lea
       <br><strong>Choose Screen</strong>
     </td>
     <td align="center" style="width: 25%; padding: 10px;">
-      <img src="quizappimages/questions.png" alt="Questions Screen" style="width: 100%; height: auto; max-width: 250px;">
+      <img src="quizappimages/questions.png" alt="Questions Screen" style="width: 100%; height: auto; max-width: 200;">
       <br><strong>Questions Screen</strong>
     </td>
     <td align="center" style="width: 25%; padding: 10px;">
